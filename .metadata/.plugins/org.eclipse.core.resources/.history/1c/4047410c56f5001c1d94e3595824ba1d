@@ -1,0 +1,40 @@
+package com.programs;
+
+public class Factorial {
+
+	public static int sum = 1;
+
+	public static void main(String[] args) {
+
+		int a[] = { 1, 2, 3, 4, 5, 6 };
+
+		for (int i : a) {
+
+			if (i == 6) {
+
+				break;
+
+			} else {
+
+				sum = sum * i;
+			}
+		}
+
+		System.out.println("factorial of 5 : " + sum);
+
+		int b = 5;
+
+		if (b == 5) {
+
+		} else {
+
+			b--;
+
+			sum = sum * b;
+
+		}
+
+		System.out.println("factorial of 5 : " + sum);
+	}
+
+}

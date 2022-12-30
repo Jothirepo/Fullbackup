@@ -1,0 +1,10 @@
+package com.programs;
+
+public class Multiply_Inside_Array {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

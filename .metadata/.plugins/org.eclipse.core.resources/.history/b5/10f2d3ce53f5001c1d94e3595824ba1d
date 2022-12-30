@@ -1,0 +1,26 @@
+package com.programs;
+
+public class Factorial {
+
+	public static int sum = 1;
+	
+	public static void main(String[] args) {
+		
+		for (int i = 0; i < 6; i++) {
+			
+			if (i==6) {
+				
+				break;
+				
+			} else {
+
+				i++;
+				sum = 1 * i;
+				
+			}
+		}
+
+		System.out.println("factorial of 5 : " + sum);
+	}
+
+}

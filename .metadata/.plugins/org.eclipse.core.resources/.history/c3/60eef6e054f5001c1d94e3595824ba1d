@@ -1,0 +1,23 @@
+package com.programs;
+
+public class Factorial {
+
+	public static int sum;
+	
+	public static void main(String[] args) {
+		
+		int a[] = {1, 2, 3, 4, 5};
+		
+		for (int i : a) {
+			
+			if (i==5) {
+				
+				
+			} else {
+
+			}
+		}
+		System.out.println("factorial of 5 : " + sum);
+	}
+
+}

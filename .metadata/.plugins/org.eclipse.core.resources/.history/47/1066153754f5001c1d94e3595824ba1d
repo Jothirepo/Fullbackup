@@ -1,0 +1,19 @@
+package com.programs;
+
+public class Factorial {
+
+	public static int sum;
+	
+	public static void main(String[] args) {
+		
+		int a = 5;
+		
+		while (a<6) {
+			
+			sum = 1 * a;
+			
+		}
+		System.out.println("factorial of 5 : " + sum);
+	}
+
+}

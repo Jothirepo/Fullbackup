@@ -1,0 +1,29 @@
+package com.programs;
+
+public class String_Manipulation {
+
+	public static void main(String[] args) {
+		
+
+		String rev = "jothi";
+		
+		System.out.println("************************************************************");
+		
+		int length = rev.length();
+		System.out.println(length);
+		
+		int index = length -1;
+		System.out.println(index);
+		
+		char charAt = rev.charAt(2);
+		
+		String empt = "";
+		
+		String ne = empt + charAt;
+		
+		System.out.println(ne);
+				
+		System.out.println(charAt + " is the character at the index 2");
+		
+	}
+}

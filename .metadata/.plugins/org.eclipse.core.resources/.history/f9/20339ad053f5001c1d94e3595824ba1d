@@ -1,0 +1,17 @@
+package com.programs;
+
+public class Factorial {
+
+	public static int sum = 1;
+	
+	public static void main(String[] args) {
+		
+		int a = 10;
+		
+		for (String string : args) {
+			
+		}
+		System.out.println("factorial of 5 : " + sum);
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Body.json&apos; to &apos;apitesting/src/test/java/com.restassured&apos;&#x0D;&#x0A;- Original project: &apos;bddcucumber&apos;&#x0D;&#x0A;- Destination element: &apos;apitesting/src/test/java/com.restassured&apos;&#x0D;&#x0A;- Original element: &apos;Body.json&apos;" description="Copy file" destination="=apitesting/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;com.restassured" element1="src/test/java/com/restassured/Body.json" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1654438170898" units="0" version="1.0"/>
+</session>
